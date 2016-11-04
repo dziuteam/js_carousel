@@ -1,0 +1,29 @@
+.gallery_carousel {
+	width: 400px; 
+}
+
+#carousel {
+	margin: 0 auto;
+	text-align: center;
+	width: 400px;
+	height: 300px; 
+	overflow: hidden;
+}
+ul {
+	max-width: 2000px;
+  	margin: 0;
+  	padding: 0;
+  	border: 0;
+  	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	list-style: none;
+}
+li {
+	width: 400px;
+	height: 300px;
+	list-style: none;
+	float: right;
+}
+
+
